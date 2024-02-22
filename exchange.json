@@ -1,0 +1,10 @@
+{
+  "main": "american-twitch-flights-api.raml",
+  "name": "american-twitch-flights-api",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "american-twitch-flights-api",
+  "version": "1.0.0"
+}
